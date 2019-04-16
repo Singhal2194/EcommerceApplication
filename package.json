@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/cli": "^7.3.6",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.4.20",
+    "mongoose-gridfs": "^0.6.2",
+    "nodemon": "^1.18.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon .js"
+  },
+  "author": "",
+  "license": "ISC"
+}
